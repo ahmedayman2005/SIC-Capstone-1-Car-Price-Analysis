@@ -1,9 +1,9 @@
-# 📌 Capstone Project 1 — Car Dataset Analysis
+#  Capstone Project 1 — Car Dataset Analysis
 Samsung Innovation Campus — AI Track
 
 ---
 
-## 🎯 Project Overview
+##  Project Overview
 
 This project analyzes a large car dataset to understand the most important factors affecting car prices, such as:
 
@@ -25,7 +25,7 @@ The project includes:
 
 ---
 
-## 📂 Project Files
+##  Project Files
 
 | File | Description |
 |------|-------------|
@@ -36,7 +36,7 @@ The project includes:
 
 ---
 
-## 🧹 Data Cleaning Summary
+##  Data Cleaning Summary
 
 - **715 duplicate rows removed**
 - Missing values filled using:
@@ -49,7 +49,7 @@ The project includes:
 
 ---
 
-## 📊 Key Insights
+##  Key Insights
 
 - American manufacturers like **Chevrolet** and **Ford** dominate car production counts  
 - **Bugatti** has the highest average MSRP across all manufacturers  
@@ -63,7 +63,7 @@ The project includes:
 
 ---
 
-## 🛠 Technologies Used
+##  Technologies Used
 
 - Python  
 - Pandas  
@@ -74,7 +74,7 @@ The project includes:
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 To install all dependencies, run:
 
